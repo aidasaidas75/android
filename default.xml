@@ -84,6 +84,7 @@
   <project path="external/wpa_supplicant_8" name="temasek/android_external_wpa_supplicant_8" remote="github" revision="cm-12.1" />
   <project path="external/f2fs-tools" name="temasek/android_external_f2fs-tools" remote="github" revision="cm-12.1" />
   <project path="external/jemalloc" name="arter97/android_external_jemalloc" remote="github" revision="android-5.1" />
+  <project name="mikeNG/android_packages_apps_Snap" path="packages/apps/Snap" remote="github" revision="cm-12.1" />
   <!-- END of temasek -->
 
   <project path="abi/cpp" name="CyanogenMod/android_abi_cpp" groups="pdk" />
