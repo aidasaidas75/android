@@ -66,7 +66,7 @@
   <project path="packages/services/Telecomm" name="temasek/android_packages_services_Telecomm" remote="github" revision="cm-12.1" />
   <project path="packages/services/Telephony" name="temasek/android_packages_services_Telephony" remote="github" revision="cm-12.1" />
   <project path="prebuilts/ndk" name="temasek/android_prebuilt_ndk" remote="github" revision="cm-12.1" />
-  <project path="vendor/cm" name="temasek/android_vendor_cm" remote="github" revision="cm-12.1" />
+  <project path="vendor/cm" name="aidasaidas75/android_vendor_cm" remote="github" revision="cm-12.1" />
   <project path="vendor/cmsdk" name="temasek/cm_platform_sdk" remote="github" revision="cm-12.1" />
   <project path="system/core" name="temasek/android_system_core" remote="github" revision="cm-12.1" />
   <project path="system/security" name="temasek/android_system_security" remote="github" revision="cm-12.1" />
